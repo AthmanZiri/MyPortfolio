@@ -1,7 +1,7 @@
 Babel==2.3.4
 Django==1.11.dev20161021125907
 Flask==0.11.1
-Jinja2==2.8
+Jinja2==2.11.3
 Markdown==2.6.7
 MarkupSafe==0.23
 MySQL-python==1.2.3
