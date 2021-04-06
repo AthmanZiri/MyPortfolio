@@ -35,7 +35,7 @@ django-material==0.10.0
 django-messages==0.5.3
 django-phonenumber-field==1.1.0
 django-push-notifications==1.4.1
-django-registration==2.2
+django-registration==3.1.2
 django-registration-redux==1.4
 django-selectable==0.9.0
 django-simple-math-captcha==1.0.7
