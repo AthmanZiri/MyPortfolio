@@ -1,4 +1,4 @@
-Babel==2.3.4
+Babel==2.9.1
 Django==1.11.dev20161021125907
 Flask==0.11.1
 Jinja2==2.8
